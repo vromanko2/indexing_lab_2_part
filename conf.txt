@@ -1,0 +1,5 @@
+/Users/veronikaromanko/Desktop/test
+res_by_a.txt
+res_by_n.txt
+4
+4
